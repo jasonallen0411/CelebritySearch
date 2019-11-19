@@ -1,0 +1,91 @@
+.page {
+    background-image: url('/assets/AppBackground.png');
+    /* height: 100vh; */
+    background-color: #0b012b;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+
+  }
+
+  .mainHeader{
+    font-family: 'Fanfare';
+    font-size: 50px;
+    text-align: center;
+    color: #ffd400;
+    margin-top: 170px;
+    /* align-self: center;
+    z-index: 500; */
+  }
+
+  .inputItem {
+    width: 400px;
+    margin: 20px auto;
+  }
+
+  .getInfoBtn{
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  /* #infoBtn{
+    background-color: #fff;
+  }
+
+  button.button-native{
+    background: #fff;
+  } */
+
+  .cards{
+    background-color: rgba(0, 5, 17, .5);
+  }
+
+  #wikiStuff{
+    /* background-color: rgba(0, 5, 17, .5); */
+    color:white;
+    padding: 20px;
+    text-align: left;
+    display: none;
+  }
+
+  #wikiStuff1{
+    /* background-color: rgba(0, 5, 17, .5); */
+    color: #ffd400;
+    padding: 20px;
+    display: none;
+  }
+  
+  #ituneStuff{
+    /* background-color: rgba(0, 5, 17, .5); */
+    color:white;
+    padding: 20px;
+    text-align: left;
+    display: none;
+  }
+
+  #ituneStuff1{
+    /* background-color: rgba(0, 5, 17, .5); */
+    color: #ffd400;
+    padding: 20px;
+    display: none;
+  }
+
+  #movieStuff{
+    /* background-color: rgba(0, 5, 17, .5); */
+    color:white;
+    padding: 20px;
+    text-align: left;
+    display: none;
+  }
+
+  #movieStuff1{
+    /* background-color: rgba(0, 5, 17, .5); */
+    color: #ffd400;
+    padding: 20px;
+    display: none;
+  }
+
+  span{
+    font-size: 25px;
+    color: #ffd400;
+  }
